@@ -1,9 +1,9 @@
 ---
 tags:
-  - "#radiant_citadel"
+  - radiant_citadel
 Type: Log
 Quest: Derelict Ship from the Gloom
-Date: 2024-01-27
+Date: 2024-03-13
 Summary: 
 Locations:
   - Radiant Citadel
@@ -17,7 +17,7 @@ Party:
 
 # Recap
 ---
-- Back from the quest for the special riverin water from Sagorpur. 
+Back from the quest for the special riverin water from Sagorpur. 
 - Returned to the Citadel and spent time doing some shopping and crafting. 
 	- [[Finklebottom's Shop of Buy Something or Get a Fireball to the Face]]
 - During our rest, some shit went down with the [[Keening Gloom]]. Panic and unrest broke out. A ship is suspected to way have left the Gloom and possibly headed toward the [[Radiant Citadel|Citadel]]. 
@@ -25,6 +25,8 @@ Party:
 - The Speakers ([[Sholeh the Elder]]) suspect that this is a ship that was sent into the [[Keening Gloom]] nearly 10 years ago to study and attempt to understand.
 	- [[Archmage Zamiri Thareru]] was the one who suspects this is that old ship. Her sister [[Shamiya]] had gone on this expedition.
 - The speakers would like us to investigate this derelict ship when it reaches the [[Passage of Respite]]. 
+
+
 # Log
 ---
 - Hayathe: Experimental Elixir Rolls for the day.
