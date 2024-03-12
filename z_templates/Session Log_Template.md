@@ -1,5 +1,17 @@
 ---
-date: <% tp.date.now ( ) %>
 tags: 
-title: <% tp.file.title %>
+Type: 
+Quest: 
+Date: <% tp.date.now() %>
+Summary: 
+Locations: 
+Party:
+---
+
+# Recap
+---
+
+
+
+# Log
 ---
