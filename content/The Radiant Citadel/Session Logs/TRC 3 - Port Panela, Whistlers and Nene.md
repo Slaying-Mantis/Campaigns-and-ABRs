@@ -12,6 +12,7 @@ Party:
   - Bhumi
   - Aruna
   - Moksha
+draft:
 ---
 
 # Recap

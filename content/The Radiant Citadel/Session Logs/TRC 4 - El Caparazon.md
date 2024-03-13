@@ -15,6 +15,7 @@ Party:
   - Ojha
   - Hayathe
   - Moksha
+draft:
 ---
 
 # Recap

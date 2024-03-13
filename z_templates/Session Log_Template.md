@@ -5,7 +5,8 @@ Quest:
 Date: <% tp.date.now() %>
 Summary: 
 Locations: 
-Party:
+Party: 
+draft:
 ---
 
 # Recap
