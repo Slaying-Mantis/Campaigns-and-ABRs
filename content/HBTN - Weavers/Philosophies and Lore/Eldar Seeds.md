@@ -6,7 +6,7 @@ Type: Lore
 Date: 2024-03-13
 Sources:
   - Candlekeep
-draft:
+draft: false
 ---
 # Notes from Candlekeep
 ---

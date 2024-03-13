@@ -6,7 +6,7 @@ Type: Lore
 Date: 2024-03-13
 Sources:
   - Oswald
-draft:
+draft: false
 ---
 
 # Oswald, the Reputable Historian

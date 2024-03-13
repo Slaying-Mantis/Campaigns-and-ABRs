@@ -13,7 +13,7 @@ Party:
   - Moksha
   - Aruna
   - Ojha
-draft:
+draft: false
 ---
 
 # Recap
