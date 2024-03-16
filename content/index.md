@@ -2,5 +2,8 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+You can use the Search tool on the top to navigate to the content you are looking for. There is also an evolving list of contents on this page. 
+
+# The Radiant Citadel
+---
+- [[Radiant Citadel - List of Contents]]
