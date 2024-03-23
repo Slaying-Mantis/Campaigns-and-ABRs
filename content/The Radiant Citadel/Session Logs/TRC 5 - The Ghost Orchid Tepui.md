@@ -25,6 +25,7 @@ Party:
 > [!Note] 
 > **Potions of Healing Distribution**
 > 2x Potions of Greater Healing with each person
+> 
 > 3x Potions of Healing with [[Moksha]]
 
 **Exhaustion Levels**
@@ -89,7 +90,7 @@ Party:
 
 # Summary
 ---
-- We followed Nene through some mounds that led into the [[Ghost Orchid Tepui]]. 
+- We followed Nene through some mounds that led into the [[Ghost Orchid Tepui.png]] 
 - As Bhumi led us toward the large mesa that he saw after stepping through the mound. 
 - At the base of the mesa, near the cascading waterfall, was a elven statue. A voice from the statue tried to trick us into bathe in the necrotic pool. After a swift and decisive fight, we defeated these cloakers that tried to trick. 
 - We then made our way up the cliff to the wrecked ship and then eventually made our way into the cleft in the mesa from where green necrotic mist was pouring out. 
