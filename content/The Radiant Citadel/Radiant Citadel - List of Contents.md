@@ -9,9 +9,12 @@ tags:
 - [[TRC 3 - Port Panela, Whistlers and Nene]]
 - [[TRC 4 - El Caparazon]]
 - [[TRC 5 - The Ghost Orchid Tepui]]
+- [[TRC 6 - Slumbering Chimgua and the Coven]]
 
 # Maps
 ---
 - [[Atagua_Map.png]]
 - [[Ghost Orchid Tepui.png]]
+	- [[Cave Area 01.png]]
+	- [[Cave Area 02.png]]
 
