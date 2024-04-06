@@ -10,6 +10,7 @@ tags:
 - [[TRC 4 - El Caparazon]]
 - [[TRC 5 - The Ghost Orchid Tepui]]
 - [[TRC 6 - Slumbering Chimgua and the Coven]]
+- [[TRC 7 - The Aboleths in the Water]]
 
 # Maps
 ---
