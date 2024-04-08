@@ -10,3 +10,4 @@
 - [[District 11]]
 - [[Faith's End]]
 - [[Gauss Belt]]
+- [[Talos I]]
