@@ -16,6 +16,7 @@ Just a few buildings litter themselves underneath the protection of [[Dahlia]]'s
 ## Notable Locations
 ---
 - [[Ilma's Sparkling Goods]] - Owned by [[Ilma Silvermind]]. Minor enchantments shop and a bakery.
-- [[Hard Rock Inn]] - Owned and run by [[Saigon]]
+- [[Hard Rock Inn]] - Owned and run by [[Saigon]].
 - [[The Average Listener]] - Owned by [[Murad]]. A diviner of your fortunes. 
-- [[Flea Bargain]] - Owned by the [[Mahavath]]
+- [[Flea Bargain]] - Owned by the [[Mahavath]].
+- [[Dahlia's Aid]]
