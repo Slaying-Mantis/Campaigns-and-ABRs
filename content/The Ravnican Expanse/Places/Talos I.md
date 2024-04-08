@@ -8,7 +8,7 @@ Date: 2024-04-09
 Sources: 
 draft:
 ---
-**Talos I** is a [[Qurium|qurium]] mining station in the [[Gauss Belt]]. It is one of the many mobile mining stations constructed by the [[Izzet League]]. It houses ~200 miners who, with a total output of 2 tons every month. Commissioned in 10,024 ZC by the [[Izzet League]], it was handed over to the belter factions at the beginning of the Miner Welfare and Subsidized Energies Mandate. It is currently owned by the [[Gauss Miners' Union]]. 
+**Talos I** is a [[Qurium|qurium]] mining station in the [[Gauss Belt]]. It is one of the many mobile mining stations constructed by the [[Izzet League]]. It houses ~200 miners, with a total output of 2 tons every month. Commissioned in 10,024 ZC by the [[Izzet League]], it was handed over to the belter factions at the beginning of the Miner Welfare and Subsidized Energies Mandate. It is currently owned by the [[Gauss Miners' Union]]. 
 
 # Description
 ---
