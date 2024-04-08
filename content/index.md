@@ -7,3 +7,8 @@ You can use the Search tool on the top to navigate to the content you are lookin
 # The Radiant Citadel
 ---
 - [[Radiant Citadel - List of Contents]]
+
+
+# The Ravnican Expanse
+---
+- [[Ravnican Expanse - List of Contents]]
