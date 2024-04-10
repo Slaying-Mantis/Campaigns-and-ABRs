@@ -3,6 +3,7 @@ tags:
   - gauss_belt
   - talos_one
   - qurium
+  - miners-union
 Type: Lore
 Date: 2024-04-09
 Sources: 

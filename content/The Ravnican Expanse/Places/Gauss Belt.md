@@ -11,6 +11,8 @@ The **Gauss Belt** forms the closest asteroid belt to Ravnica, containing rich d
 
 # Notable Locations
 ---
-**District 11** is a massive space port sitting just beyond the Gauss Belt, which forms the main seat of power for the Gauss Miners' Union. The Union itself is formed by seven elected heads from the various Belter Factions, along with one representative each from the [[Azorius Senate]] and [[Orzhov Syndicate]]. 
+**[[District 11]]** is a massive space port sitting just beyond the Gauss Belt, which forms the main seat of power for the Gauss Miners' Union. The Union itself is formed by seven elected heads from the various Belter Factions, along with one representative each from the [[Azorius Senate]] and [[Orzhov Syndicate]]. 
 
 **[[Faith's End]]** is way side rest "town" for those traversing the [[Gauss Belt]] in the [[Ravnican Sol System]]. Built on top of the last remnants of the [[Boros Legion]] outpost [[Faith's End|Sentinel's Watch]], it is now a home of a small collection merchants, artisans, and outcasts. [[Dahlia]], an ex-commander of the Boros Legion, is the caretaker and owner of this floating rock. Dahlia's Grace, a boon granted to the ex-Boros Commander, at time of her retirement, exempts Faith's End from the jurisdiction of the Ten Guilds and the Belter Factions.
+
+**[[Talos I]]**, one of the many mining stations in the Gauss Belt, functions relatively close to [[Faith's End]]. Several decades into its service, it is now under the ownership of the [[Gauss Miners' Union]]. As with each mining station, a small selection of guild offices closely related to the Mandate, reside on the mining station as well. 
