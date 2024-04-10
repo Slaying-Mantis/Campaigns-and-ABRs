@@ -9,9 +9,11 @@ draft:
 ---
 **Faith's End** is the floating remains of a destroyed [[Boros Legion]] moon outpost called [[Faith's End|Sentinel's Watch]]. [[Dahlia]] had been the Commander of the outpost at the time of its destruction. Post her retirement from the [[Boros Legion]], she return to the rock to setup a quiet life for herself and any seeking refuge the chaos of the Ten Guilds. Dahlia's Grace, a boon granted to the ex-Boros Commander, at time of her retirement, exempts Faith's End from the jurisdiction of the Ten Guilds and the Belter Factions.
 
+![[Faith's End.jpg]]
+
 # Description
 ---
-Just a few buildings litter themselves underneath the protection of [[Dahlia]]'s radiation bubble projected from her Abode overlooking the scanty town. An old graviton and climatization system embedded within the rock itself maintains the atmosphere for its inhabitants. Mihira, the Izzet League engineer based on [[District 11]], looks after the maintenance of this life support system. 
+Just a few buildings litter themselves underneath the protection of [[Dahlia]]'s radiation bubble projected from her Abode overlooking the scanty town. An old graviton and climatization system embedded within the rock itself maintains the atmosphere for its inhabitants. [[Mihira]], the Izzet League engineer based on [[District 11]], looks after the maintenance of this life support system. 
 
 ## Notable Locations
 ---
