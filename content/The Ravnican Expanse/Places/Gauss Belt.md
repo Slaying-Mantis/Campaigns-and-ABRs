@@ -7,7 +7,7 @@ Date: 2024-04-08
 Sources: 
 draft:
 ---
-The **Gauss Belt** forms the closest asteroid belt to Ravnica, containing rich deposits of Qurium ore. The Gauss Miners' Union, formed by Belter inhabitants living in and around the asteroid belt, now retains the legal authority to mine and collect this ore under the Miners' Welfare and Subsidized Energies Mandate. This legal decree was sanctioned in the presence of high-ranking officials of the [[Azorius Senate]], [[Orzhov Syndicate]], [[Boros Legion]] and [[Izzet League]], passed in into effect by the Guildpact. This mandate was result of the Great Belter Revolution against the previous owners of mining stations in the belts - the [[Orzhov Syndicate|Syndicate]]. Now, no guild/faction/enterprise, other than the two Belt Unions, can own mining stations in the minable asteroid belts. 
+The **Gauss Belt** forms the closest asteroid belt to Ravnica, containing rich deposits of Qurium ore. The Gauss Miners' Union, formed by Belter inhabitants living in and around the asteroid belt, now retains the legal authority to mine and collect this ore under the Miners' Welfare and Subsidized Energies Mandate. This legal decree was sanctioned in the presence of high-ranking officials of the [[Azorius Senate]], [[Orzhov Syndicate]], [[Boros Legion]] and [[Izzet League]], passed in into effect by the Guildpact. This mandate was the result of the Great Belter Revolution against the previous owners and their monopolistic practices - the [[Orzhov Syndicate|Syndicate]]. Now, no guild/faction/enterprise, other than the two Belt Unions, can own mining stations in minable asteroid belts. 
 
 # Notable Locations
 ---
