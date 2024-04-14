@@ -9,20 +9,28 @@ aliases:
 
 # Ship Stats
 ---
- **Armor Class**: 15 (wood) 
- **Hit Points**: 200 ([[The Proletariat#^c94bad|250]]) 
- **Damage Threshold:** 15 
- **Speed:** fly 70 ft.  
+**Armor Class**: 15 (wood)
 
- **Cargo**: 20 tons
- **Crew:** 11 
- **Keel/Beam**: 100 ft./ 20 ft.
+**Hit Points**: 200 ([[The Proletariat#^c94bad|250]]) 
+
+**Damage Threshold:** 15 
+
+**Speed:** fly 70 ft.  
+
+
+**Cargo**: 20 tons
+
+**Crew:** 11 
+
+**Keel/Beam**: 100 ft./ 20 ft.
 
 ## 3 Ballistae (3 Crew Each)
 ---
- **Armor Class**: 15 
- **Hit Points**: 50 
- **Cost:** 50 GP (ballista), 5 GP (bolt)
+**Armor Class**: 15 
+
+**Hit Points**: 50 
+
+**Cost:** 50 GP (ballista), 5 GP (bolt)
 
 It takes 1 action to load a ballista, 1 action to aim it, and 1 action to fire it.
 
