@@ -7,7 +7,7 @@ Date: 2024-04-08
 Sources: 
 draft:
 ---
-**Faith's End** is the floating remains of a destroyed [[Boros Legion]] moon outpost called [[Faith's End|Sentinel's Watch]]. [[Dahlia]] had been the Commander of the outpost at the time of its destruction. Post her retirement from the [[Boros Legion]], she return to the rock to setup a quiet life for herself and any seeking refuge the chaos of the Ten Guilds. Dahlia's Grace, a boon granted to the ex-Boros Commander, at time of her retirement, exempts Faith's End from the jurisdiction of the Ten Guilds and the Belter Factions.
+**Faith's End** is the floating remains of a destroyed [[Boros Legion]] moon outpost called [[Faith's End|Sentinel's Watch]]. [[Dahlia]] had been the Commander of the outpost at the time of its destruction. Post her retirement from the [[Boros Legion]], she returned to the rock to setup a quiet life for herself and anyone else seeking refuge from the chaos of the Ten Guilds. Dahlia's Grace, a boon granted to the ex-Boros Commander, at the time of her retirement, exempts Faith's End from the jurisdiction of the Ten Guilds and the Belter Factions. This exo-port 'town' now hosts a series of small business that have become self-indulgent secrets for the travelers of the [[Gauss Belt]] and exhausted [[Qurium]] miners who want a break from the hubbub.
 
 ![[Faith's End.jpg]]
 
@@ -22,3 +22,7 @@ Just a few buildings litter themselves underneath the protection of [[Dahlia]]'s
 - [[The Average Listener]] - Owned by [[Murad]]. A diviner of your fortunes. 
 - [[Flea Bargain]] - Owned by the [[Mahavath]].
 - [[Dahlia's Aid]]
+
+## Ships
+---
+- [[The Proletariat]]
