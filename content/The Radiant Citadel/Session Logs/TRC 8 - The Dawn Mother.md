@@ -51,3 +51,8 @@ Party:
 - Then [[Alfonz Rubinaz Zumdi]] came to talk to us. [[Bhumi]] told him that he has the white seed pod but will hold on to it for the fight against the [[Draught Elder]]. [[Alfonz Rubinaz Zumdi]] seemed to understand was okay with it. 
 - The elders performed the ritual and we walked through the portal. There was the heavy stench of death as we walked through the portal. We came out on the other side in a new plane of existence. 
 
+# Summary
+---
+- We ran into a rampaging Dawn Mother and discovered that the Draught Elder had also breached her dreams and infected her with nightmarish thoughts. 
+- After calming her down, we confessed to her why we had sought her out. We relayed to her what we found out from Zulla about Chimagua. Hearing that, she gave us the [[Hammock of Worlds]] and told us that the [[Green Doctors]] would aid us at the [[Silver Tapir Monastery]].
+- We made our way to the Monastery and requested their help in opening the way to the Draught Elder. After a minor detour with a bag of beans, we stepped through the portal. 
