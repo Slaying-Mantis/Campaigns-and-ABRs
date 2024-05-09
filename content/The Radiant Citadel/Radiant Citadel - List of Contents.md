@@ -13,6 +13,7 @@ tags:
 - [[TRC 7 - The Aboleths in the Water]]
 - [[TRC 8 - The Dawn Mother]]
 - [[TRC 9 - In the Far Realm]]
+- [[TRC 10 - The Eye of the Beholder]]
 
 # Maps
 ---
