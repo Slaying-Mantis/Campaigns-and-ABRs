@@ -4,15 +4,15 @@ tags:
 ---
 # Session Logs
 ---
-- [[TRC 1 - The Derelict Ship from the Keening Gloom]]
-- [[TRC 2 - The Eternal Night]]
-- [[TRC 3 - Port Panela, Whistlers and Nene]]
-- [[TRC 4 - El Caparazon]]
-- [[TRC 5 - The Ghost Orchid Tepui]]
-- [[TRC 6 - Slumbering Chimgua and the Coven]]
-- [[TRC 7 - The Aboleths in the Water]]
-- [[TRC 8 - The Dawn Mother]]
-- [[TRC 9 - In the Far Realm]]
+- [[TRC 01 - The Derelict Ship from the Keening Gloom]]
+- [[TRC 02 - The Eternal Night]]
+- [[TRC 03 - Port Panela, Whistlers and Nene]]
+- [[TRC 04 - El Caparazon]]
+- [[TRC 05 - The Ghost Orchid Tepui]]
+- [[TRC 06 - Slumbering Chimgua and the Coven]]
+- [[TRC 07 - The Aboleths in the Water]]
+- [[TRC 08 - The Dawn Mother]]
+- [[TRC 09 - In the Far Realm]]
 - [[TRC 10 - The Eye of the Beholder]]
 
 # Maps

@@ -18,7 +18,7 @@ Party:
 
 # Recap
 ---
-![[TRC 9 - In the Far Realm#Summary]]
+![[TRC 09 - In the Far Realm#Summary]]
 
 
 # Log

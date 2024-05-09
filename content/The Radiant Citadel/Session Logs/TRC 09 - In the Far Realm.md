@@ -15,7 +15,7 @@ Party:
 
 # Recap
 ---
-![[TRC 8 - The Dawn Mother#Summary]]
+![[TRC 08 - The Dawn Mother#Summary]]
 
 
 # Log

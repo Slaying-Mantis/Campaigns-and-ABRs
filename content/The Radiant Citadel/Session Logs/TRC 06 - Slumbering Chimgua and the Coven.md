@@ -17,7 +17,7 @@ Party:
 
 # Recap
 ---
-![[TRC 5 - The Ghost Orchid Tepui#Summary]]
+![[TRC 05 - The Ghost Orchid Tepui#Summary]]
 
 
 # Log

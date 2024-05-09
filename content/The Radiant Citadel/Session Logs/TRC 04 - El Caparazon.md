@@ -20,7 +20,7 @@ draft: false
 
 # Recap
 ---
-![[TRC 3 - Port Panela, Whistlers and Nene#Summary]]
+![[TRC 03 - Port Panela, Whistlers and Nene#Summary]]
 
 
 # Log

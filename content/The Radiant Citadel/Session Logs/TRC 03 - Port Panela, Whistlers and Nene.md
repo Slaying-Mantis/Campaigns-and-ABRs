@@ -17,7 +17,7 @@ draft: false
 
 # Recap
 ---
-![[TRC 2 - The Eternal Night#Summary]]
+![[TRC 02 - The Eternal Night#Summary]]
 # Log
 ---
 **What Hayathe finds out:**

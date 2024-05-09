@@ -16,12 +16,12 @@ Party:
 
 # Recap
 ---
-![[TRC 7 - The Aboleths in the Water#Summary]]
+![[TRC 07 - The Aboleths in the Water#Summary]]
 
 
 # Log
 ---
-**Corrections in [[TRC 7 - The Aboleths in the Water]]**
+**Corrections in [[TRC 07 - The Aboleths in the Water]]**
 - Only the [[Green Doctors]] can perform the ritual to use the [[Hammock of Worlds]] to open the path to the [[Draught Elder]].
 - [[Nene]] will go and inform the [[Green Doctors]] about what is about to happen and summon them to the [[Dawn Mother]].
 

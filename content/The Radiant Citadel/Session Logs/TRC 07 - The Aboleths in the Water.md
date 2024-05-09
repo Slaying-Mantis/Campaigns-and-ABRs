@@ -17,7 +17,7 @@ Party:
 
 # Recap
 ---
-![[TRC 6 - Slumbering Chimgua and the Coven#Summary]]
+![[TRC 06 - Slumbering Chimgua and the Coven#Summary]]
 # Log
 ---
 - [[Yarana]] had managed to snap out of the trance temporarily, and quickly told us that there are two Aboleths in the water. 

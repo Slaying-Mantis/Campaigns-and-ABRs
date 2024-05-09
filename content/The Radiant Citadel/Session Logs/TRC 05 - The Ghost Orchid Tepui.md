@@ -17,7 +17,7 @@ Party:
 
 # Recap
 ---
-![[TRC 4 - El Caparazon#Summary]]
+![[TRC 04 - El Caparazon#Summary]]
 
 
 # Log
