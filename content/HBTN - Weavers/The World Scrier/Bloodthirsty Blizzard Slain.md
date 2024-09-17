@@ -1,6 +1,7 @@
 ---
 tags:
   - World_Scrier
+  - indexed
 Type: News
 Date: 2024-03-13
 draft: false

@@ -8,5 +8,5 @@
 
 # World Scrier
 ---
-- [[Bloodthirsty Blizzard Slain]]
+![[a_Article Chronology]]
 
